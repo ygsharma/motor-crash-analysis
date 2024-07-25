@@ -1,18 +1,5 @@
 # NYC Motor Vehicle Crash Analysis
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Project Proposal](#project-proposal)
-- [Features](#features)
-- [Data Pipeline](#data-pipeline)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [Contributors](#contributors)
-- [License](#license)
-
 ## Overview
 
 This project aims to analyze motor vehicle crash data in New York City using a PySpark-based data pipeline. We processed and analyzed 1.3 million data points to uncover critical patterns through numerical and geospatial exploratory data analysis (EDA). Missing Borough details were imputed using a Logistic Regression method. The findings were synthesized into an interactive Plotly dashboard to illustrate the factors affecting crashes.
